@@ -2,7 +2,7 @@
 
 Project created in node.js v15.3.0.
 
-The objective of this project is to create a Pokedex using react for the client (front-end), knex and express for the server (back-end).
+The objective of this project was to create a password generator.
 
 # 📥 Installation
 
