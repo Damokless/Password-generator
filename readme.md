@@ -12,7 +12,7 @@ The objective of this project is to create a Pokedex using react for the client 
 # 👨‍💻 Usage
 
 1) Go to the folder where the .js file is located.
-2) Run the script using the following command (By the way, we need to open a command prompt ...)
+2) Run the script using the following command (By the way, you need to open a command prompt ...)
 ```nodejs
 node .\generator.js <password length>
 ```
